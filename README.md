@@ -2,7 +2,12 @@
 
 
 ##  🙋 About Me
+* 프로젝트와 팀의 목표에 가장 부합한 것을 따라가는 개발자
+* 개발자의 시선이 아닌 사용자의 경험을 중요시 생각하는 개발자
+* 프로덕트 중심으로 사고하는 개발자
+* 유지 보수에 용이한 코드에 관심이 많은 개발자
 <callout>
+
 저에 대해 더 알고 싶다면 <a href="https://velog.io/@yezee" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>에 놀러오세요! <br> TMI (Too Meaningful Information)가 기다리고 있습니다!
 </callout>
 
